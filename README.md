@@ -1,65 +1,120 @@
-# Welcome to My Profile  
+# Welcome to My Profile
 
-## About Me  
+## 🧠 About Me
 
-I am an aspiring data scientist with a strong foundation in **decision theory, complex systems, and artificial intelligence**. My work integrates **quantitative analysis, machine learning, and statistical modeling** with a broader interdisciplinary perspective, aiming to develop robust and interpretable methodologies for decision-making and predictive modeling.  
+I’m an aspiring data scientist with a strong interest in decision theory, artificial intelligence, and the study of complex systems.  
+My background bridges statistical modeling, optimization, and machine learning, with the goal of building interpretable and robust tools for predictive modeling and decision-making.
 
-## Academic Journey  
+---
 
-- **Philosophy Studies (2 years)** – Focus on epistemology, logic, and rationality  
-- **BSc in Administrative Science & International Relations** (Economic track) – Bridging governance, economics, and decision-making  
-- **MSc in Economics of Markets & Financial Intermediaries** – Specialization in financial econometrics and risk analysis  
-- **Second-level Master in AI, Machine Learning, and Statistics (CESMA)** – Deepening expertise in **statistical modeling, AI applications, and data-driven decision-making**  
-- **Current Research:** High-dimensional statistics for portfolio optimization  
-- **Future Goals:** Pursuing a **PhD in Data Science, Computer Science, or Network Science**, with a focus on applied research in an industrial setting  
+## 🎓 Academic Journey
 
-## Technical Skills  
+- Philosophy Studies (2 years) – Epistemology, logic, rationality  
+- BSc in Administrative Science & International Relations (Economic track) – Governance, economics, and policy  
+- MSc in Economics of Markets & Financial Intermediaries – Focus on financial econometrics and risk modeling  
+- Second-level Master in AI, Machine Learning & Statistics (CESMA) – Applied machine learning, statistics, and data science  
+- Master’s Thesis – High-dimensional portfolio optimization using shrinkage and regularization  
+- Future Goal – PhD in Data Science, Complex Systems, or Network Science with an applied and interdisciplinary focus
 
-### Programming & Data Analysis  
-- **Python** (pandas, NumPy, SciPy, scikit-learn, TensorFlow, PyTorch)  
-- **R** (tidyverse, ggplot2, caret)  
-- **MATLAB** (optimization, econometrics, financial modeling)  
-- **SQL** (PostgreSQL, MySQL, data querying and management)  
+---
 
-### Machine Learning & AI  
-- Supervised and unsupervised learning, including classification, regression, and clustering  
-- Deep learning techniques, including neural networks and ensemble methods  
-- Time series forecasting with ARIMA, GARCH, and LSTMs  
-- Generative modeling (CTGAN)  
-- Reinforcement learning (Q-learning, policy gradient methods)  
+## 🧰 Technical Toolkit
 
-### Statistical & Econometric Modeling  
-- Hypothesis testing, Bayesian inference, Monte Carlo simulations  
-- Time series analysis (VAR, cointegration, state-space models)  
-- Panel data econometrics (fixed/random effects models, difference-in-differences)  
-- Portfolio optimization (Markowitz, Black-Litterman, robust optimization)  
+### Data Handling & Transformation
+- Python: pandas, NumPy, SciPy  
+- R: tidyverse, data.table, xts, quantmod, PerformanceAnalytics  
+- SQL: MySQL, SQLite  
+- SAS: Base programming, PROC SQL  
+- Web scraping: BeautifulSoup, Selenium  
+- Time-aware data manipulation: lagging, rolling, datetime indexing
 
-### Optimization & Decision Science  
-- Convex optimization and regularization techniques  
-- Multi-objective optimization for portfolio management and economic modeling  
-- Network science applications in financial and social systems  
+### Statistical & Econometric Modeling
+- Classical inference, hypothesis testing, Monte Carlo simulations  
+- Time series: ARIMA, GARCH, LSTM, state-space models  
+- Panel data: fixed/random effects, difference-in-differences  
+- Portfolio optimization: Markowitz, Black-Litterman, DEoptim, quadprog  
+- Shrinkage estimators, robust covariance matrices (e.g. Ledoit-Wolf)  
+- Dimensionality reduction: PCA, robust PCA, factor analysis
 
-### Data Engineering & Visualization  
-- Database management (SQL, relational databases)  
-- Data wrangling and transformation (pandas, dplyr)  
-- Interactive dashboards and visualization (Tableau, R Shiny, Power BI)  
-- Web scraping (BeautifulSoup, Selenium)  
+### 🤖 Machine Learning & AI
 
-## Professional Experience  
+**Workflow & Preprocessing**  
+- Feature engineering (lags, rolling stats, categorical encoding)  
+- Train/test splitting with time awareness  
+- Cross-validation: k-fold, TimeSeriesSplit
 
-- **Financial & Data Analyst** – Applied quantitative models for risk assessment, market analysis, and financial decision-making  
-- **Research & Academic Background** – Tutor and mentor in **statistics, econometrics, and finance**, supporting data-driven insights and policy evaluations  
-- **Hackathons & Projects** – Developed **machine learning applications in economic modeling, sentiment analysis, and risk prediction**  
+**Supervised & Unsupervised Learning**  
+- Linear models: OLS, Ridge, LASSO, Elastic Net  
+- Tree-based models: Decision Trees, Random Forest, XGBoost, LightGBM  
+- Support Vector Machines (SVM)  
+- Clustering: KMeans, DBSCAN, hierarchical clustering
 
-## Personal Interests  
+**Temporal Modeling & Forecasting**  
+- Forecasting with lagged features and rolling windows  
+- Recurrent neural networks: LSTM  
+- Generative models: CTGAN, TimeGAN
 
-Inspired by Michelangelo’s words, *"I’m still learning,"* I continuously seek to expand my knowledge and apply it to real-world challenges.  
+**Evaluation & Diagnostics**  
+- Classification metrics: F1, precision, recall, ROC-AUC  
+- Regression metrics: MAE, RMSE, R²  
+- Residual and overfitting analysis
 
-- **Reading & Research:** Philosophy, astrophysics, economics, artificial intelligence, and complex systems  
-- **Sports & Well-Being:** Former competitive **tennis and volleyball player**, now engaged in **functional training and multi-sport activities**  
-- **Culinary & Nutrition:** Passionate about creating balanced, healthy meals while exploring the science behind nutrition  
+**Interpretability**  
+- Model-based feature importance  
+- Correlation and partial dependence analysis
 
-## Let's Connect  
+### 🧮 Optimization & High-dimensional Modeling
+- Convex and constrained optimization (Python, R, MATLAB)  
+- Regularization: LASSO, Ridge, Elastic Net, graphical lasso  
+- Multi-objective optimization  
+- Portfolio optimization under constraints and uncertainty
 
-I am always open to discussions on **decision theory, machine learning, complexity science, and data-driven insights**. Feel free to reach out!  
+### ⚙️ Performance & Pipelines
+- Parallel computing: multiprocessing, doParallel, foreach  
+- Experiment tracking, reproducibility, modular design  
+- Benchmarking: microbenchmark, timeit  
+- Code structuring and refactoring from notebooks to modules
 
+### 📊 Visualization & Reporting
+- Python: matplotlib, seaborn, plotly  
+- R: ggplot2, plotly, shiny  
+- Dashboards: Tableau, Power BI  
+- Report generation: R Markdown, Jupyter, LaTeX
+
+---
+
+## 📚 Currently Learning
+
+- SAS Programming – Data steps, procedures, and macro programming  
+- Causal Inference – Propensity scores, treatment effect estimation  
+- Generative Time Series – TimeGAN for synthetic forecasting  
+- Complex Systems Theory – Network behavior, emergence, systemic risk  
+- MLOps Foundations – Reproducibility, versioning, model deployment
+
+---
+
+
+
+## 💼 Experience & Activities
+
+- University Tutor – Supported students in econometrics, statistics, and machine learning  
+- Student-led AI Projects – Developed models in economic forecasting, NLP, and spatial risk modeling  
+- Hackathons & Challenges – Focused on risk prediction, generative modeling, and infrastructure analytics
+
+---
+
+## 🧬 Personal Interests
+
+I’m passionate about learning and research at the intersection of technology, complexity, and human decision-making.
+
+- Reading & Research: philosophy, artificial intelligence, astrophysics, complexity science  
+- Sports: former competitive tennis and volleyball player, now into functional training  
+- Cooking: science-based approach to nutrition and performance
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to collaborations and discussions around:
+
+**Machine learning · Decision science · Complexity · Risk modeling · Applied statistics · AI for real-world systems**
