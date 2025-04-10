@@ -9,14 +9,17 @@ My background bridges statistical modeling, optimization, and machine learning, 
 
 ## 🎓 Academic Journey
 
-- Philosophy Studies (2 years) – Epistemology, logic, rationality  
+- Philosophy Studies (2 years) – Focus on epistemology, logic, and rationality  
 - BSc in Administrative Science & International Relations (Economic track) – Governance, economics, and policy  
-- MSc in Economics of Markets & Financial Intermediaries – Focus on financial econometrics and risk modeling  
-- Second-level Master in AI, Machine Learning & Statistics (CESMA) – Applied machine learning, statistics, and data science  
-- Master’s Thesis – High-dimensional portfolio optimization using shrinkage and regularization  
-- Future Goal – PhD in Data Science, Complex Systems, or Network Science with an applied and interdisciplinary focus
+  - Bachelor's thesis: “Customer choice in a state of uncertainty: overcoming the Homo Oeconomicus paradigm towards a more sustainable Homo Temperatus”
+- MSc in Economics of Markets & Financial Intermediaries – Specialization in financial econometrics and risk modeling
+  - Master's thesis: “High-dimensional portfolio optimization under sparse contamination: a factor-analytical approach” 
+- Second-level Master in AI, Machine Learning & Statistics (CESMA) – Applied machine learning, statistical modeling, and data science  
+   
+- Future Goal – Pursue a PhD in Data Science, Complex Systems, or Network Science, with an applied and interdisciplinary focus
 
----
+
+
 
 ## 🧰 Technical Toolkit
 
