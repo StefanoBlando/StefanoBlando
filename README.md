@@ -1,123 +1,96 @@
-# Welcome to My Profile
+# Stefano Blando
 
-## 🧠 About Me
+*Economist × Data Scientist | Bridging Theory and Practice*
 
-I’m an aspiring data scientist with a strong interest in decision theory, artificial intelligence, and the study of complex systems.  
-My background bridges statistical modeling, optimization, and machine learning, with the goal of building interpretable and robust tools for predictive modeling and decision-making.
-
----
-
-## 🎓 Academic Journey
-
-- Philosophy Studies (2 years) – Focus on epistemology, logic, and rationality  
-- BSc in Administrative Science & International Relations (Economic track) – Governance, economics, and policy  
-  - Bachelor's thesis: “Customer choice in a state of uncertainty: overcoming the Homo Oeconomicus paradigm towards a more sustainable Homo Temperatus”
-- MSc in Economics of Markets & Financial Intermediaries – Specialization in financial econometrics and risk modeling
-  - Master's thesis: “High-dimensional portfolio optimization under sparse contamination: a factor-analytical approach” 
-- Second-level Master in AI, Machine Learning & Statistics (CESMA) – Applied machine learning, statistical modeling, and data science  
-   
-- Future Goal – Pursue a PhD in Data Science, Complex Systems, or Network Science, with an applied and interdisciplinary focus
-
-
-
-
-## 🧰 Technical Toolkit
-
-### Data Handling & Transformation
-- Python: pandas, NumPy, SciPy  
-- R: tidyverse, data.table, xts, quantmod, PerformanceAnalytics  
-- SQL: MySQL, SQLite  
-- SAS: Base programming, PROC SQL  
-- Web scraping: BeautifulSoup, Selenium  
-- Time-aware data manipulation: lagging, rolling, datetime indexing
-
-### Statistical & Econometric Modeling
-- Classical inference, hypothesis testing, Monte Carlo simulations  
-- Time series: ARIMA, GARCH, LSTM, state-space models  
-- Panel data: fixed/random effects, difference-in-differences  
-- Portfolio optimization: Markowitz, Black-Litterman, DEoptim, quadprog  
-- Shrinkage estimators, robust covariance matrices (e.g. Ledoit-Wolf)  
-- Dimensionality reduction: PCA, robust PCA, factor analysis
-
-### 🤖 Machine Learning & AI
-
-**Workflow & Preprocessing**  
-- Feature engineering (lags, rolling stats, categorical encoding)  
-- Train/test splitting with time awareness  
-- Cross-validation: k-fold, TimeSeriesSplit
-
-**Supervised & Unsupervised Learning**  
-- Linear models: OLS, Ridge, LASSO, Elastic Net  
-- Tree-based models: Decision Trees, Random Forest, XGBoost, LightGBM  
-- Support Vector Machines (SVM)  
-- Clustering: KMeans, DBSCAN, hierarchical clustering
-
-**Temporal Modeling & Forecasting**  
-- Forecasting with lagged features and rolling windows  
-- Recurrent neural networks: LSTM  
-- Generative models: CTGAN, TimeGAN
-
-**Evaluation & Diagnostics**  
-- Classification metrics: F1, precision, recall, ROC-AUC  
-- Regression metrics: MAE, RMSE, R²  
-- Residual and overfitting analysis
-
-**Interpretability**  
-- Model-based feature importance  
-- Correlation and partial dependence analysis
-
-### 🧮 Optimization & High-dimensional Modeling
-- Convex and constrained optimization (Python, R, MATLAB)  
-- Regularization: LASSO, Ridge, Elastic Net, graphical lasso  
-- Multi-objective optimization  
-- Portfolio optimization under constraints and uncertainty
-
-### ⚙️ Performance & Pipelines
-- Parallel computing: multiprocessing, doParallel, foreach  
-- Experiment tracking, reproducibility, modular design  
-- Benchmarking: microbenchmark, timeit  
-- Code structuring and refactoring from notebooks to modules
-
-### 📊 Visualization & Reporting
-- Python: matplotlib, seaborn, plotly  
-- R: ggplot2, plotly, shiny  
-- Dashboards: Tableau, Power BI  
-- Report generation: R Markdown, Jupyter, LaTeX
+I develop robust statistical methods and AI frameworks for decision-making under uncertainty, with applications in economics, finance, and complex systems. Currently applying for PhD programs in Decision Analytics and Systems Science.
 
 ---
 
-## 📚 Currently Learning
+## Research Focus
 
-- SAS Programming – Data steps, procedures, and macro programming  
-- Causal Inference – Propensity scores, treatment effect estimation  
-- Generative Time Series – TimeGAN for synthetic forecasting  
-- Complex Systems Theory – Network behavior, emergence, systemic risk  
-- MLOps Foundations – Reproducibility, versioning, model deployment
+**Core Interest**: Agent-Based Decision Analytics in Economic Networks  
+**Methodology**: Robust machine learning for high-dimensional economic data  
+**Applications**: Supply chain resilience, financial risk modeling, infrastructure prediction  
 
 ---
 
+## Academic Journey
 
+**Philosophy** (2 years) → **Governance & International Relations** → **Economics & Finance** → **AI & Machine Learning**
 
-## 💼 Experience & Activities
-
-- University Tutor – Supported students in econometrics, statistics, and machine learning  
-- Student-led AI Projects – Developed models in economic forecasting, NLP, and spatial risk modeling  
-- Hackathons & Challenges – Focused on risk prediction, generative modeling, and infrastructure analytics
+Currently completing CESMA Master in AI/ML/Statistics at Tor Vergata University of Rome.
 
 ---
 
-## 🧬 Personal Interests
+## Featured Projects
 
-I’m passionate about learning and research at the intersection of technology, complexity, and human decision-making.
+### **AI Data Hackathon 2024 - 2nd Place**
+[gas-networks-risk-forecasting](./gas-networks-risk-forecasting) - Ensemble models for infrastructure resilience prediction using geospatial data, CTGAN synthetic generation, and SHAP explainability.
 
-- Reading & Research: philosophy, artificial intelligence, astrophysics, complexity science  
-- Sports: former competitive tennis and volleyball player, now into functional training  
-- Cooking: science-based approach to nutrition and performance
+### **Alpine Climate Challenge 2025 - Finalist**  
+[Alpine Climate Challenge](./alpine-climate-challenge) - Multi-source environmental prediction combining Copernicus, NOAA, and regional datasets.
+
+### **Master's Thesis Research**
+[robust-portfolio-optimization](./robust-portfolio-optimization) - Novel PFSE/SSRE estimators achieving 15-20% performance improvements over traditional methods.
+
+### **Advanced ML Project**
+[Gen-AI-models](./Gen-AI-models) - Parameter-Efficient Fine-Tuning achieving 84% accuracy using only 0.23% of model parameters with LoRA/QLoRA techniques.
+
+### **Statistical & Econometric Analysis**
+[Econometrics](./Econometrics) - MATLAB implementations for salary analysis and time series modeling (GDP, S&P 500 volatility).
+
+[Big-Data-Analysis](./Big-Data-Analysis) - R-based projects including news popularity prediction, voting patterns clustering, and comprehensive ML pipelines.
 
 ---
 
-## 🤝 Let’s Connect
+## Technical Expertise
 
-I’m open to collaborations and discussions around:
+### **Machine Learning & AI**
+Python • PyTorch • scikit-learn • XGBoost • LightGBM  
+LoRA/QLoRA • CTGAN/TimeGAN • Ensemble Methods • SHAP
 
-**Machine learning · Decision science · Complexity · Risk modeling · Applied statistics · AI for real-world systems**
+### **Statistical Modeling**
+R • MATLAB • Time Series (ARIMA/GARCH) • Robust Statistics  
+Portfolio Theory • Econometrics • Monte Carlo • Bayesian Methods
+
+### **Development & Tools**
+SQL • Git • Parallel Computing • Shiny Dashboards  
+LaTeX • Jupyter • Data Visualization • Cloud Computing
+
+---
+
+## Research & Writing
+
+**[academic-writing](./academic-writing)** - Collection of theoretical research and analysis:
+- **Russell's Paradox in Economics** - Foundational challenges in mathematical economics
+- **Master's Thesis** - High-dimensional portfolio optimization under sparse contamination  
+- **BADGER Index Analysis** - Novel GDP measurement approach submitted to Rethinking Economics
+
+---
+
+## Current Goals
+
+**Immediate**: PhD Applications in Decision Sciences/Systems Science  
+**Research Vision**: Understanding how economic decisions create and influence network structures  
+**Methodology**: Combining agent-based modeling with robust statistical inference  
+
+---
+
+## Recognition & Leadership
+
+**Leadership**: Secretary General @ Starting Finance Club (70+ members)  
+**Recognition**: Selected from 17K+ candidates for Bertelsmann Tech Booster  
+**Upcoming**: Oxford Summer School Economic Networks (2025)  
+
+---
+
+## Connect
+
+Interested in collaborations on:
+**Economic Networks** • **Robust ML** • **Decision Science** • **Complex Systems**
+
+📧 stefano.blando@gmail.com | [LinkedIn](https://www.linkedin.com/in/stefano-blando/)
+
+---
+
+*"Building bridges between economic theory and machine learning to understand decision-making in complex systems."*
