@@ -2,7 +2,7 @@
 
 *Economist × Data Scientist | Bridging Theory and Practice*
 
-I develop robust statistical methods and AI frameworks for decision-making under uncertainty, with applications in economics, finance, and complex systems. Currently applying for PhD programs in Decision Analytics and Systems Science.
+I develop robust statistical methods and AI frameworks for decision-making under uncertainty, with applications in economics, finance, and complex systems.
 
 ---
 
@@ -19,27 +19,26 @@ I develop robust statistical methods and AI frameworks for decision-making under
 **Philosophy** (2 years) → **Governance & International Relations** → **Economics & Finance** → **AI & Machine Learning**
 
 Currently completing CESMA Master in AI/ML/Statistics at Tor Vergata University of Rome.
-
 ---
 
 ## Featured Projects
 
 ### **AI Data Hackathon 2024 - 2nd Place**
-[gas-networks-risk-forecasting](./gas-networks-risk-forecasting) - Ensemble models for infrastructure resilience prediction using geospatial data, CTGAN synthetic generation, and SHAP explainability.
+[gas-networks-risk-forecasting](https://github.com/StefanoBlando/gas-networks-risk-forecasting) - Ensemble models for infrastructure resilience prediction using geospatial data, CTGAN synthetic generation, and SHAP explainability.
 
 ### **Alpine Climate Challenge 2025 - Finalist**  
-[Alpine Climate Challenge](./alpine-climate-challenge) - Multi-source environmental prediction combining Copernicus, NOAA, and regional datasets.
+[Alpine Climate Challenge](https://github.com/StefanoBlando/alpine-climate-challenge) - Multi-source environmental prediction combining Copernicus, NOAA, and regional datasets.
 
 ### **Master's Thesis Research**
-[robust-portfolio-optimization](./robust-portfolio-optimization) - Novel PFSE/SSRE estimators achieving 15-20% performance improvements over traditional methods.
+[robust-portfolio-optimization](https://github.com/StefanoBlando/robust-portfolio-optimization) - Novel PFSE/SSRE estimators achieving 15-20% performance improvements over traditional methods.
 
 ### **Advanced ML Project**
-[Gen-AI-models](./Gen-AI-models) - Parameter-Efficient Fine-Tuning achieving 84% accuracy using only 0.23% of model parameters with LoRA/QLoRA techniques.
+[Gen-AI-models](https://github.com/StefanoBlando/Gen-AI-models) - Parameter-Efficient Fine-Tuning achieving 84% accuracy using only 0.23% of model parameters with LoRA/QLoRA techniques.
 
 ### **Statistical & Econometric Analysis**
-[Econometrics](./Econometrics) - MATLAB implementations for salary analysis and time series modeling (GDP, S&P 500 volatility).
+[Econometrics](https://github.com/StefanoBlando/Econometrics) - MATLAB implementations for salary analysis and time series modeling (GDP, S&P 500 volatility).
 
-[Big-Data-Analysis](./Big-Data-Analysis) - R-based projects including news popularity prediction, voting patterns clustering, and comprehensive ML pipelines.
+[Big-Data-Analysis](https://github.com/StefanoBlando/Big-Data-Analysis) - R-based projects including news popularity prediction, voting patterns clustering, and comprehensive ML pipelines.
 
 ---
 
@@ -61,7 +60,7 @@ LaTeX • Jupyter • Data Visualization • Cloud Computing
 
 ## Research & Writing
 
-**[academic-writing](./academic-writing)** - Collection of theoretical research and analysis:
+**[academic-writing](https://github.com/StefanoBlando/academic-writing)** - Collection of theoretical research and analysis:
 - **Russell's Paradox in Economics** - Foundational challenges in mathematical economics
 - **Master's Thesis** - High-dimensional portfolio optimization under sparse contamination  
 - **BADGER Index Analysis** - Novel GDP measurement approach submitted to Rethinking Economics
