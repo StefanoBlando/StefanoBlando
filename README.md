@@ -2,7 +2,7 @@
 
 *Economist × Data Scientist | Bridging Theory and Practice*
 
-I develop robust statistical methods and AI frameworks for decision-making under uncertainty, with applications in economics, finance, and complex systems.
+I develop robust statistical methods and AI frameworks for decision-making under uncertainty, with applications in economics, finance, and complex systems. Currently applying for PhD programs in Decision Analytics and Systems Science.
 
 ---
 
@@ -19,6 +19,7 @@ I develop robust statistical methods and AI frameworks for decision-making under
 **Philosophy** (2 years) → **Governance & International Relations** → **Economics & Finance** → **AI & Machine Learning**
 
 Currently completing CESMA Master in AI/ML/Statistics at Tor Vergata University of Rome.
+
 ---
 
 ## Featured Projects
@@ -45,16 +46,41 @@ Currently completing CESMA Master in AI/ML/Statistics at Tor Vergata University 
 ## Technical Expertise
 
 ### **Machine Learning & AI**
-Python • PyTorch • scikit-learn • XGBoost • LightGBM  
-LoRA/QLoRA • CTGAN/TimeGAN • Ensemble Methods • SHAP
+**Languages & Frameworks**: Python, PyTorch, scikit-learn, TensorFlow  
+**Advanced ML**: XGBoost, LightGBM, Random Forest, Gradient Boosting  
+**Specialized Techniques**: LoRA/QLoRA, Parameter-Efficient Fine-Tuning  
+**Generative Models**: CTGAN, TimeGAN for synthetic data generation  
+**Explainability**: SHAP, feature importance, model interpretation  
+**Deep Learning**: Neural Networks, LSTM, Attention mechanisms
 
-### **Statistical Modeling**
-R • MATLAB • Time Series (ARIMA/GARCH) • Robust Statistics  
-Portfolio Theory • Econometrics • Monte Carlo • Bayesian Methods
+### **Statistical Modeling & Econometrics**
+**Languages**: R, MATLAB, SAS  
+**Time Series**: ARIMA, GARCH, ARCH, EWMA, state-space models  
+**Robust Statistics**: Contamination-resistant estimators, outlier detection  
+**Financial Modeling**: Markowitz optimization, Black-Litterman, risk metrics  
+**Econometric Methods**: Panel data, difference-in-differences, IV estimation  
+**Bayesian Analysis**: MCMC, posterior inference, hierarchical models  
+**Dimensionality Reduction**: PCA, robust PCA, factor analysis
 
-### **Development & Tools**
-SQL • Git • Parallel Computing • Shiny Dashboards  
-LaTeX • Jupyter • Data Visualization • Cloud Computing
+### **Data Engineering & Programming**
+**Languages**: Python (pandas, NumPy, SciPy), R (tidyverse, data.table), SQL, SAS  
+**Database**: MySQL, SQLite, data warehousing concepts  
+**Big Data**: Handling large datasets, memory optimization, parallel processing  
+**Web Scraping**: BeautifulSoup, Selenium, API integration  
+**Version Control**: Git, GitHub, collaborative development  
+**Computing**: High-performance computing, cloud platforms
+
+### **Visualization & Communication**
+**Visualization**: ggplot2, matplotlib, seaborn, plotly, Tableau  
+**Interactive Dashboards**: Shiny (R), Streamlit, web applications  
+**Reporting**: R Markdown, Jupyter, LaTeX, professional documentation  
+**Presentation**: Data storytelling, statistical communication
+
+### **Specialized Domains**
+**Financial Engineering**: Portfolio optimization, risk management, derivatives  
+**Network Analysis**: Graph theory, network metrics, community detection  
+**Geospatial Analysis**: Geographic data processing, spatial statistics  
+**Infrastructure Analytics**: Risk forecasting, resilience modeling
 
 ---
 
