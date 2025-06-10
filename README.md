@@ -34,7 +34,7 @@ Currently completing CESMA Master in AI/ML/Statistics at Tor Vergata University 
 [robust-portfolio-optimization](https://github.com/StefanoBlando/robust-portfolio-optimization) - Novel PFSE/SSRE estimators achieving 15-20% performance improvements over traditional methods.
 
 ### **Advanced ML Project**
-[Gen-AI-models](https://github.com/StefanoBlando/Gen-AI-models) - Parameter-Efficient Fine-Tuning achieving 84% accuracy using only 0.23% of model parameters with LoRA/QLoRA techniques.
+[Gen-AI-models](https://github.com/StefanoBlando/Gen-AI) - Parameter-Efficient Fine-Tuning, AI photo editing, custom RAG chatbot.
 
 ### **Statistical & Econometric Analysis**
 [Econometrics](https://github.com/StefanoBlando/Econometrics) - MATLAB implementations for salary analysis and time series modeling (GDP, S&P 500 volatility).
