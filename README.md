@@ -1,121 +1,62 @@
 # Stefano Blando
 
-*Economist × Data Scientist | Bridging Theory and Practice*
+*PhD Candidate in Artificial Intelligence | Dynamic Economic Networks*
 
-I develop robust statistical methods and AI frameworks for decision-making under uncertainty, with applications in economics, finance, and complex systems. Currently applying for PhD programs in Decision Analytics and Systems Science.
+Currently pursuing PhD at Italy's National PhD Program in Artificial Intelligence (Scuola Superiore Sant'Anna & University of Pisa), developing computational frameworks to understand how economic networks evolve through behavioral adaptation and strategic responses.
 
----
-
-## Research Focus
-
-**Core Interest**: Agent-Based Decision Analytics in Economic Networks  
-**Methodology**: Robust machine learning for high-dimensional economic data  
-**Applications**: Supply chain resilience, financial risk modeling, infrastructure prediction  
+**Research Focus**: Dynamic network evolution in innovation ecosystems, supply chain resilience, financial systems, and digital platforms. Building bridges between network science, behavioral economics, and machine learning to address real-world policy challenges.
 
 ---
 
-## Academic Journey
+## Current Research
 
-**Philosophy** (2 years) → **Governance & International Relations** → **Economics & Finance** → **AI & Machine Learning**
+**PhD Project**: Dynamic Economic Networks for Societal Innovation
 
-Currently completing CESMA Master in AI/ML/Statistics at Tor Vergata University of Rome.
+Developing methodological frameworks that capture temporal network dynamics, behavioral co-evolution, and transition mechanisms between structural regimes. Moving beyond static network models to understand how individual strategies create emergent collective behaviors that reshape economic systems over time.
 
----
-
-## Featured Projects
-
-### **AI Data Hackathon 2024 - 2nd Place**
-[gas-networks-risk-forecasting](https://github.com/StefanoBlando/gas-networks-risk-forecasting) - Ensemble models for infrastructure resilience prediction using geospatial data, CTGAN synthetic generation, and SHAP explainability.
-
-### **Alpine Climate Challenge 2025 - Finalist**  
-[Alpine Climate Challenge](https://github.com/StefanoBlando/alpine-climate-challenge) - Multi-source environmental prediction combining Copernicus, NOAA, and regional datasets.
-
-### **Master's Thesis Research**
-[robust-portfolio-optimization](https://github.com/StefanoBlando/robust-portfolio-optimization) - Novel PFSE/SSRE estimators achieving 15-20% performance improvements over traditional methods.
-
-### **Advanced ML Project**
-[Gen-AI-models](https://github.com/StefanoBlando/Gen-AI) - Parameter-Efficient Fine-Tuning, AI photo editing, custom RAG chatbot.
-
-### **Statistical & Econometric Analysis**
-[Econometrics](https://github.com/StefanoBlando/Econometrics) - MATLAB implementations for salary analysis and time series modeling (GDP, S&P 500 volatility).
-
-[Big-Data-Analysis](https://github.com/StefanoBlando/Big-Data-Analysis) - R-based projects including news popularity prediction, voting patterns clustering, and comprehensive ML pipelines.
+**Applications**: Innovation ecosystem evolution, supply chain adaptation during disruptions, financial network stability, digital platform dynamics.
 
 ---
 
-## Technical Expertise
+## Academic Background
 
-### **Machine Learning & AI**
-**Languages & Frameworks**: Python, PyTorch, scikit-learn, TensorFlow  
-**Advanced ML**: XGBoost, LightGBM, Random Forest, Gradient Boosting  
-**Specialized Techniques**: LoRA/QLoRA, Parameter-Efficient Fine-Tuning  
-**Generative Models**: CTGAN, TimeGAN for synthetic data generation  
-**Explainability**: SHAP, feature importance, model interpretation  
-**Deep Learning**: Neural Networks, LSTM, Attention mechanisms
+**Interdisciplinary Path**: Philosophy → Governance & International Relations → Economics & Finance → AI & Machine Learning → PhD in Artificial Intelligence
 
-### **Statistical Modeling & Econometrics**
-**Languages**: R, MATLAB, SAS  
-**Time Series**: ARIMA, GARCH, ARCH, EWMA, state-space models  
-**Robust Statistics**: Contamination-resistant estimators, outlier detection  
-**Financial Modeling**: Markowitz optimization, Black-Litterman, risk metrics  
-**Econometric Methods**: Panel data, difference-in-differences, IV estimation  
-**Bayesian Analysis**: MCMC, posterior inference, hierarchical models  
-**Dimensionality Reduction**: PCA, robust PCA, factor analysis
-
-### **Data Engineering & Programming**
-**Languages**: Python (pandas, NumPy, SciPy), R (tidyverse, data.table), SQL, SAS  
-**Database**: MySQL, SQLite, data warehousing concepts  
-**Big Data**: Handling large datasets, memory optimization, parallel processing  
-**Web Scraping**: BeautifulSoup, Selenium, API integration  
-**Version Control**: Git, GitHub, collaborative development  
-**Computing**: High-performance computing, cloud platforms
-
-### **Visualization & Communication**
-**Visualization**: ggplot2, matplotlib, seaborn, plotly, Tableau  
-**Interactive Dashboards**: Shiny (R), Streamlit, web applications  
-**Reporting**: R Markdown, Jupyter, LaTeX, professional documentation  
-**Presentation**: Data storytelling, statistical communication
-
-### **Specialized Domains**
-**Financial Engineering**: Portfolio optimization, risk management, derivatives  
-**Network Analysis**: Graph theory, network metrics, community detection  
-**Geospatial Analysis**: Geographic data processing, spatial statistics  
-**Infrastructure Analytics**: Risk forecasting, resilience modeling
+**Key Training**: Oxford Summer School Economic Networks, CESMA Master in AI/ML/Statistics (Tor Vergata), MSc Economics of Markets & Financial Intermediaries, extensive background in complexity economics and behavioral network science.
 
 ---
 
-## Research & Writing
+## Collaboration Interests
 
-**[academic-writing](https://github.com/StefanoBlando/academic-writing)** - Collection of theoretical research and analysis:
-- **Russell's Paradox in Economics** - Foundational challenges in mathematical economics
-- **Master's Thesis** - High-dimensional portfolio optimization under sparse contamination  
-- **BADGER Index Analysis** - Novel GDP measurement approach submitted to Rethinking Economics
+**Academic Partnerships**
+- Temporal network modeling and dynamic systems analysis
+- Policy applications of network insights for economic development
+- Interdisciplinary research bridging AI, economics, and complex systems
+
+**Industry Applications**  
+- Innovation analytics and startup ecosystem mapping
+- Supply chain intelligence and resilience optimization
+- Financial network analysis and systemic risk assessment
+
+**Open Science**
+- Reproducible computational economics research
+- Educational materials for network science applications
+- Community building in economic complexity research
 
 ---
 
-## Current Goals
+## Recent Recognition
 
-**Immediate**: PhD Applications in Decision Sciences/Systems Science  
-**Research Vision**: Understanding how economic decisions create and influence network structures  
-**Methodology**: Combining agent-based modeling with robust statistical inference  
-
----
-
-## Recognition & Leadership
-
-**Leadership**: Secretary General @ Starting Finance Club (70+ members)  
-**Recognition**: Selected from 17K+ candidates for Bertelsmann Tech Booster  
-**Upcoming**: Oxford Summer School Economic Networks (2025)  
+PhD Fellowship at National PhD Program in AI | 2nd Place AI Data Hackathon | Alpine Climate Challenge Finalist | Bertelsmann Tech Booster Program
 
 ---
 
 ## Connect
 
-Interested in collaborations on:
-**Economic Networks** • **Robust ML** • **Decision Science** • **Complex Systems**
+Interested in collaborations on economic networks, temporal dynamics, behavioral adaptation, and AI applications for societal challenges.
 
 📧 stefano.blando@gmail.com | [LinkedIn](https://www.linkedin.com/in/stefano-blando/)
 
 ---
 
-*"Building bridges between economic theory and machine learning to understand decision-making in complex systems."*
+*Understanding how economic networks continuously evolve to drive societal innovation and resilience.*
