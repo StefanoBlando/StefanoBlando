@@ -1,7 +1,8 @@
   # Stefano Blando
 
-  [![Website](https://img.shields.io/badge/Website-Visit-1f6feb?logo=googlechrome&logoColor=white)](https://stefanoblando.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white)]
-  (https://www.linkedin.com/in/stefano-blando/) [![Email](https://img.shields.io/badge/Email-Contact-8b5cf6?logo=gmail&logoColor=white)](mailto:stefano.blando@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-Visit-1f6feb?logo=googlechrome&logoColor=white)](https://stefanoblando.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-blando/)
+  [![Email](https://img.shields.io/badge/Email-Contact-8b5cf6?logo=gmail&logoColor=white)](mailto:stefano.blando@gmail.com)
 
 
   *PhD Candidate in Artificial Intelligence | Adaptive Economic Networks*
