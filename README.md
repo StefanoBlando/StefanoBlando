@@ -7,6 +7,7 @@
   [![Email](https://img.shields.io/badge/Email-Contact-8b5cf6?
   logo=gmail&logoColor=white)](mailto:stefano.blando@gmail.com)
 
+
   *PhD Candidate in Artificial Intelligence | Adaptive Economic Networks*
 
   PhD in the National AI Program (Scuola Superiore Sant’Anna & University of
