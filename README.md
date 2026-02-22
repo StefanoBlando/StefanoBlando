@@ -26,24 +26,16 @@
 
   ## Featured Projects
 
-  - **Advanced Recommender System** — ranking + personalization with strong offline metrics
-    `https://github.com/StefanoBlando/advanced-recommender-system`
-
-  - **Real Estate AI Agent** — RAG + multimodal search for property matching
-    `https://github.com/StefanoBlando/real-estate-ai-agent`
-
-  - **Gas Networks Risk Forecasting** — predictive risk modeling with geospatial features
-    `https://github.com/StefanoBlando/gas-networks-risk-forecasting`
-
-  - **Robust Portfolio Optimization** — high‑dimensional robust covariance for asset allocation
-    `[ADD_ROBUST_PORTFOLIO_REPO_URL_HERE](https://github.com/StefanoBlando/robust-portfolio-optimization)`
+  [![Robust Portfolio Optimization](https://img.shields.io/badge/Repo-Robust%20Portfolio%20Optimization-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/robust-portfolio-optimization)
+  [![Advanced Recommender System](https://img.shields.io/badge/Repo-Advanced%20Recommender%20System-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/advanced-recommender-system)
+  [![Real Estate AI Agent](https://img.shields.io/badge/Repo-Real%20Estate%20AI%20Agent-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/real-estate-ai-agent)
+  [![Gas Networks Risk Forecasting](https://img.shields.io/badge/Repo-Gas%20Networks%20Risk%20Forecasting-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/gas-networks-risk-forecasting)
 
   ---
 
   ## Side Quest
 
-  - **Pokenexus** — a Pokémon app (non‑academic, just for fun)
-    `https://github.com/StefanoBlando/pokenexus`
+  [![Pokenexus](https://img.shields.io/badge/Repo-Pokenexus-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/pokenexus)
 
   ---
 
