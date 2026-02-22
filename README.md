@@ -16,26 +16,33 @@
   ## Current Research
 
   **PhD Project**: *Learning How to Learn — Adaptive Cognitive Architectures for Economic Network Formation*
-  I develop A‑MARL‑GNN, a three‑layer cognitive architecture (reflexive, deliberative, meta‑cognitive) where agents co‑evolve strategies and links. The goal is to move beyond static heuristics toward models that learn *how* to learn and
-  *whom* to learn from.
+  A‑MARL‑GNN: three‑layer cognition (reflexive, deliberative, meta‑cognitive) with co‑evolving strategies and links.
 
-  **Methodological stack**: MARL, GNNs, meta‑learning, statistical model checking (MultiVeStA), robust explainability.
-  **Applications**: financial contagion and stability, innovation and knowledge diffusion networks, policy‑relevant ABM validation.
+  **Methods**: MARL, GNNs, meta‑learning, statistical model checking (MultiVeStA), robust explainability.
+  **Applications**: financial contagion, innovation networks, policy‑relevant ABM validation.
 
   ---
 
   ## Featured Projects
 
   [![Robust Portfolio Optimization](https://img.shields.io/badge/Repo-Robust%20Portfolio%20Optimization-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/robust-portfolio-optimization)
+  Robust covariance estimation for high‑dimensional portfolio allocation.
+
   [![Advanced Recommender System](https://img.shields.io/badge/Repo-Advanced%20Recommender%20System-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/advanced-recommender-system)
+  Ranking + personalization with strong offline evaluation.
+
   [![Real Estate AI Agent](https://img.shields.io/badge/Repo-Real%20Estate%20AI%20Agent-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/real-estate-ai-agent)
+  RAG + multimodal search for property matching.
+
   [![Gas Networks Risk Forecasting](https://img.shields.io/badge/Repo-Gas%20Networks%20Risk%20Forecasting-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/gas-networks-risk-forecasting)
+  Predictive risk modeling with geospatial features.
 
   ---
 
   ## Side Quest
 
   [![Pokenexus](https://img.shields.io/badge/Repo-Pokenexus-24292e?logo=github&logoColor=white)](https://github.com/StefanoBlando/pokenexus)
+  A Pokémon app built for fun.
 
   ---
 
@@ -48,7 +55,7 @@
   - **II‑Level University Master in Customer Experience, Statistics, ML and AI** — University of Rome Tor Vergata + SAS Academy
   - **MSc in Financial Markets and Financial Intermediaries** — University of Rome Tor Vergata
   - **BSc in Governance and International Relations** — University of Rome Tor Vergata
-  - **BA in Philosophy** — La Sapienza University of Rome
+  - **BA in Philosophy (coursework, not completed)** — La Sapienza University of Rome
 
   **Summer Schools & Training**
   - **Oxford Summer School in Economic Networks** — University of Oxford
