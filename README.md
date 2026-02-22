@@ -1,17 +1,11 @@
   # Stefano Blando
 
-  <a href="https://stefanoblando.github.io/" target="_blank">
-    <img alt="Website" height="24" src="https://cdn.simpleicons.org/
-  googlechrome/1f6feb" />
-  </a>
-  <a href="https://www.linkedin.com/in/stefano-blando/" target="_blank">
-    <img alt="LinkedIn" height="24" src="https://cdn.simpleicons.org/
-  linkedin/0a66c2" />
-  </a>
-  <a href="mailto:stefano.blando@gmail.com">
-    <img alt="Email" height="24" src="https://cdn.simpleicons.org/
-  gmail/8b5cf6" />
-  </a>
+  [![Website](https://img.shields.io/badge/Website-Visit-1f6feb?
+  logo=googlechrome&logoColor=white)](https://stefanoblando.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?
+  logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-blando/)
+  [![Email](https://img.shields.io/badge/Email-Contact-8b5cf6?
+  logo=gmail&logoColor=white)](mailto:stefano.blando@gmail.com)
 
 
   *PhD Candidate in Artificial Intelligence | Adaptive Economic Networks*
