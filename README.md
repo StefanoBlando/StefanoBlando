@@ -41,8 +41,20 @@
 
   ## Background
 
-  Philosophy → Governance & IR → Economics & Finance → AI/ML → PhD in AI.
-  Training includes Oxford Summer School in Economic Networks and CESMA Master in AI/ML/Statistics.
+  Interdisciplinary path: Philosophy → Governance & IR → Economics & Finance → AI/ML → Network & Complexity Sciences.
+
+  **Degrees & Programs**
+  - **PhD in Artificial Intelligence** — National PhD Program (Scuola Superiore Sant’Anna & University of Pisa)
+  - **II‑Level University Master in Customer Experience, Statistics, ML and AI** — University of Rome Tor Vergata + SAS Academy
+  - **MSc in Financial Markets and Financial Intermediaries** — University of Rome Tor Vergata
+  - **BSc in Governance and International Relations** — University of Rome Tor Vergata
+  - **BA in Philosophy** — La Sapienza University of Rome
+
+  **Summer Schools & Training**
+  - **Oxford Summer School in Economic Networks** — University of Oxford
+  - **Workshop in Economic Complexity** — Enrico Fermi Research Center (Rome)
+  - **YERUN Summer School in AI‑Empowered Management Consulting** — Blended Intensive Program (Erasmus+)
+  - **Erasmus+ Exchange** — University of Paris Est‑Créteil (Business Intelligence, AI, International Strategy)
 
   ---
 
