@@ -1,62 +1,77 @@
-# Stefano Blando
+  ———
 
-*PhD Candidate in Artificial Intelligence | Dynamic Economic Networks*
+  # Stefano Blando
 
-Currently pursuing PhD at Italy's National PhD Program in Artificial Intelligence (Scuola Superiore Sant'Anna & University of Pisa), developing computational frameworks to understand how economic networks evolve through behavioral adaptation and strategic responses.
+  PhD Candidate in Artificial Intelligence | Adaptive Economic Networks
 
-**Research Focus**: Dynamic network evolution in innovation ecosystems, supply chain resilience, financial systems, and digital platforms. Building bridges between network science, behavioral economics, and machine learning to address real-world policy challenges.
+  PhD in the National AI Program (Scuola Superiore Sant’Anna & University of
+  Pisa). I build interpretable, data‑grounded models of how economic networks
+  form and evolve when agents adapt, learn, and rewire connections under
+  uncertainty.
 
----
+  Core Research: adaptive cognitive architectures for network formation,
+  multi‑agent reinforcement learning, graph neural networks, and statistical
+  validation of ABMs.
 
-## Current Research
+  ———
 
-**PhD Project**: Dynamic Economic Networks for Societal Innovation
+  ## Current Research
 
-Developing methodological frameworks that capture temporal network dynamics, behavioral co-evolution, and transition mechanisms between structural regimes. Moving beyond static network models to understand how individual strategies create emergent collective behaviors that reshape economic systems over time.
+  PhD Project: Learning How to Learn — Adaptive Cognitive Architectures for
+  Economic Network Formation
+  I develop A‑MARL‑GNN, a three‑layer cognitive architecture (reflexive,
+  deliberative, meta‑cognitive) where agents co‑evolve strategies and links. The
+  goal is to move beyond static heuristics toward models that learn how to learn
+  and whom to learn from.
 
-**Applications**: Innovation ecosystem evolution, supply chain adaptation during disruptions, financial network stability, digital platform dynamics.
+  Methodological stack: MARL, GNNs, meta‑learning, statistical model checking
+  (MultiVeStA), robust explainability.
 
----
+  Applications: financial contagion and stability, innovation and knowledge
+  diffusion networks, policy‑relevant ABM validation.
 
-## Academic Background
+  ———
 
-**Interdisciplinary Path**: Philosophy → Governance & International Relations → Economics & Finance → AI & Machine Learning → PhD in Artificial Intelligence
+  ## Active Projects
 
-**Key Training**: Oxford Summer School Economic Networks, CESMA Master in AI/ML/Statistics (Tor Vergata), MSc Economics of Markets & Financial Intermediaries, extensive background in complexity economics and behavioral network science.
+  - MultiVeStA + ABMs: validation and equilibrium characterization in economic
+    models
+  - Topological Stock Prediction: correlation network topology as early‑warning
+    signals
+  - Robust & Functional SDR: high‑dimensional risk and macro‑financial signals
+  - NLP Multi‑Method Validation: stability of large‑scale text analytics across
+    methods
 
----
+  ———
 
-## Collaboration Interests
+  ## Background
 
-**Academic Partnerships**
-- Temporal network modeling and dynamic systems analysis
-- Policy applications of network insights for economic development
-- Interdisciplinary research bridging AI, economics, and complex systems
+  Philosophy → Governance & IR → Economics & Finance → AI/ML → PhD in AI.
+  Training includes Oxford Summer School in Economic Networks and CESMA Master
+  in AI/ML/Statistics.
 
-**Industry Applications**  
-- Innovation analytics and startup ecosystem mapping
-- Supply chain intelligence and resilience optimization
-- Financial network analysis and systemic risk assessment
+  ———
 
-**Open Science**
-- Reproducible computational economics research
-- Educational materials for network science applications
-- Community building in economic complexity research
+  ## Collaboration Interests
 
----
+  - Adaptive agent architectures and network formation
+  - Empirical validation of ABMs
+  - Robust, high‑dimensional inference for economic risk
+  - Interdisciplinary AI for policy
 
-## Recent Recognition
+  ———
 
-PhD Fellowship at National PhD Program in AI | 2nd Place AI Data Hackathon | Alpine Climate Challenge Finalist | Bertelsmann Tech Booster Program
+  ## Recognition
 
----
+  PhD Fellowship (National AI Program) | AI Data Hackathon (2nd) | Alpine
+  Climate Challenge Finalist | Bertelsmann Tech Booster
 
-## Connect
+  ———
 
-Interested in collaborations on economic networks, temporal dynamics, behavioral adaptation, and AI applications for societal challenges.
+  ## Connect
 
-📧 stefano.blando@gmail.com | [LinkedIn](https://www.linkedin.com/in/stefano-blando/)
+  Open to research collaborations on adaptive economic networks and ABM
+  validation.
+  Email: stefano.blando@gmail.com
 
----
-
-*Understanding how economic networks continuously evolve to drive societal innovation and resilience.*
+  ———
